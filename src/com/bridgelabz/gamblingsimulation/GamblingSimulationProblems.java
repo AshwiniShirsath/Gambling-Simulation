@@ -1,5 +1,8 @@
 package com.bridgelabz.gamblingsimulation;
-
+/*
+ * @author : Ashwini
+ * If won would like to continue playing next month or stop Gambling
+ */
 import java.util.Random;
 import java.util.Scanner;
 
